@@ -6,7 +6,7 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 
 ## Reporting issues
 
-Please report issues at https://github.com/SMPTE/st379-2/issues or at 31fs-chair@smpte.org.
+Please report issues at https://github.com/SMPTE/st390/issues or at 31fs-chair@smpte.org.
 
 ## Project details
 
