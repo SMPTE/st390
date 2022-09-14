@@ -1,6 +1,6 @@
 # <Project title from AG-06>
 
-_This repository is public.
+_This repository is public._
 
 Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and [PATENTS.md](./PATENTS.md) for important notices.
 
